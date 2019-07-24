@@ -9,4 +9,5 @@ There are only a few classes and are hand translated blueprints to C++.
 ### Info
 * This is a plugin instead of what broadstrokes did to put it on the epic games marketplace. <br>
 * This is only code. There is no assets. For those you will need to create your own or buy the assets from the [Marketplace](https://www.unrealengine.com/marketplace/en-US/slug/over-9000-swords)<br>
-* All code is in C++ instead of BP.
+* All code is in C++ instead of BP.<br>
+* There are minor differences to the code than blueprint but it shouldn't be very different at all.<br>
