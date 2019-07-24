@@ -3,8 +3,9 @@
 
 ### Basic Use
 There are only a few classes and are hand translated blueprints to C++.
-1. Get the weapon assets. (Over9000Swords was free for a month so I have them.)
-1.5. If you have custom assets they are supported but you will have to do a bit of coding to add them in.
+1. Get the weapon assets. (Over9000Swords was free for a month so I have them.) <br>
+1.5. If you have custom assets they are supported but you will have to do a bit of coding to add them in.<br>
+2. Drag the c++ object into your scene and you will notice that it works out of the box.
 
 ### Info
 * This is a plugin instead of what broadstrokes did to put it on the epic games marketplace. <br>
